@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F76F&random=false&width=435&lines=Hi%2C+I'm+Vulncrax%2C+;a+bug+bounty+hunter.)](https://git.io/typing-svg) 
 
----
+
 <label>
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,7 @@
 </a>
 </p>
 </label>
----
+
 
 
 <p align="center">
