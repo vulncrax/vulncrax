@@ -1,4 +1,4 @@
-<h1 style="color:green;" align="center">VULNCRAX</h1>
+<h1 style="color:green;" align="center">𝙫𝙪𝙡𝙣𝙘𝙧𝙖𝙭</h1>
 
 <center><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif"> </center> 
 
