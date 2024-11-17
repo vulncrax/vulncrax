@@ -2,8 +2,7 @@
 
 <center><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif"> </center> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F76F&random=false&width=435&lines=Hi%2C+I'm+Vulncrax%2C+;a+bug+bounty+hunter.)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F76F&random=false&width=435&lines=Hi%2C+I'm+Vulncrax%2C+;a+bug+bounty+hunter.)](https://git.io/typing-svg) <label>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +13,8 @@
 
 </a>
 </p>
+</label>
+
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=vulncrax&color=lightgrey" alt="watching_count" />
