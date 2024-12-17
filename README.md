@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://hackerone.com/vulncrax?type=user" target="blank"> <img align="center" src="https://github.com/vulncrax/assets/blob/main/101.png" alt="vulncrax" height="30" width="40" /> </a>
-<a href="https://x.com/vulncrax" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="vulncrax" height="30" width="40" /></a>
+<a href="https://x.com/vulncrax1" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="vulncrax" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vulncrax" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vulncrax" height="30" width="40" />
 <a href="https://instagram.com/vulncrax" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="vulncrax" height="30" width="40" />
 
