@@ -27,6 +27,9 @@
 
 
 ---
+<h2>support at
+https://buymeacoffee.com/vulncrax
+</h2>
 
 <h2 id="knowledge_skills" align=''>Skills and tools:</h2>
 
